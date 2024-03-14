@@ -1,0 +1,4 @@
+affection.n 8 :: disposition ; maladie ; occasion ; dernier ; institution ; considération ; affectation ; époque ; extrémité ; opération
+affection.n 20 :: air ; interne ; aide ; étroit ; propre ; externe ; aimable ; international ; apercevoir ; amitié
+affection.n 33 :: aide ; air ; heureux ; externe ; interne ; ancien ; animal ; international ; image ; art
+affection.n 44 :: tendance ; maladie ; dépendance ; situation ; évolution ; attitude ; espèce ; chose ; relation ; émotion

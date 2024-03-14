@@ -1,4 +1,5 @@
 import torch
+import torch.nn as nn
 import numpy as np
 from transformers import FlaubertModel, FlaubertTokenizer, FlaubertWithLMHeadModel
 import json
@@ -35,6 +36,7 @@ class SubstitutesExtractor():
             self.id_to_word_vocab[vocab_ids[i]] = vocab_words[i][:-4]
         self.complete_words_ids = vocab_ids
         self.stop_word = json.load(open("fr_stop_words.json",'r',encoding='utf8'))
+        self.dropout = nn.Dropout(0.3)
         # do_lowercase=False if using cased models, True if using uncased ones
         
     def extract_substitutes(self, context, target_id, top_k = 10):
@@ -49,11 +51,49 @@ class SubstitutesExtractor():
         #print(target_token_id)
         token_ids = torch.tensor([self.tokenizer.encode(context,max_length=256,
                                                         padding='max_length')])
-        token_ids[0][target_token_id] = 4 #replace word by mask
+        token_ids[0][target_token_id] = 5 #replace word by mask
         #print(token_ids)
         #print(token_ids.size())
         #print("passing in the model...")
         output = self.model(token_ids)[0][0][target_token_id].detach().to("cpu").numpy()
+        #print("passing done.")
+        output_respective_to_ids = output[self.complete_words_ids]
+        output_respective_to_ids = np.exp(output_respective_to_ids)/np.exp(output_respective_to_ids).sum()
+        index_sorted = np.flip(np.argsort(output_respective_to_ids))
+        proposed_words_output = {}
+        c_best = 0
+        i = 0
+        while c_best < top_k:
+            current_word_token_id = self.complete_words_ids[index_sorted[i]]
+            current_word = self.id_to_word_vocab[current_word_token_id]
+            current_score = output_respective_to_ids[index_sorted[i]]
+            current_word_lemma = self.lemmatizer(current_word)[0].lemma_
+            if (current_word_lemma not in proposed_words_output) and (current_word not in self.stop_word) and (target_word_lemma not in current_word_lemma) and (target_word not in current_word_lemma) and (target_word_lemma not in current_word) and (target_word not in current_word):
+                proposed_words_output[current_word_lemma] = current_score
+                c_best += 1
+            i+=1
+        return proposed_words_output
+    
+    def extract_substitutes_dropout(self, context, target_id, top_k = 10):
+        split_context = context.split(" ")
+        target_word = split_context[target_id]
+        target_word_lemma = self.lemmatizer(split_context[target_id])[0].lemma_
+        #print(target_word_lemma)
+        target_token_id = len(self.tokenizer.encode(" ".join(split_context[:target_id]))) - 1
+        #print(self.tokenizer.encode(" ".join(split_context[:target_id])))
+        #print(self.tokenizer.encode(context))
+        #print(self.tokenizer.tokenize(context))
+        #print(target_token_id)
+        token_ids = torch.tensor([self.tokenizer.encode(context,max_length=256,
+                                                        padding='max_length')])
+        embeddings = self.model.transformer.embeddings(token_ids)
+        embeddings[0,target_token_id] = self.dropout(embeddings[0,target_token_id])
+        #print(embeddings.size())
+        #print(embeddings[0,target_token_id])
+        #print(token_ids)
+        #print(token_ids.size())
+        #print("passing in the model...")
+        output = self.model(inputs_embeds=embeddings)[0][0][target_token_id].detach().to("cpu").numpy()
         #print("passing done.")
         output_respective_to_ids = output[self.complete_words_ids]
         output_respective_to_ids = np.exp(output_respective_to_ids)/np.exp(output_respective_to_ids).sum()
@@ -78,15 +118,15 @@ print(proposed_words)
 
 reader = reader_lexical.generate_reader_lexical("dataset/test/lexsubfr_semdis2014_test.xml")
 
-out_f = open("output_file.txt",'w',encoding="utf8")
-for main_word in reader:
+out_f = open("output_file_dropout_03.txt",'w',encoding="utf8")
+for main_word in tqdm(reader):
     instances = reader[main_word]
     for instance in instances:
         instance_id = instance["instance_id"]
         context = instance["clean_context"]
         target_id = instance["target_id"]
-        proposed_words = extractor.extract_substitutes(context, target_id, top_k=10)
-        print(proposed_words)
+        proposed_words = extractor.extract_substitutes_dropout(context, target_id, top_k=10)
+        #print(proposed_words)
         proposed_words = list(proposed_words.keys())
         line = main_word + " " + str(instance_id) + " :: " + proposed_words[0]
         for i in range(1,len(proposed_words)):
