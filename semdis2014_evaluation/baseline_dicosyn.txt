@@ -1,0 +1,300 @@
+arrêter.v 1 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+aisé.a 2 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+vaseux.a 3 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+vaseux.a 4 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+commander.v 5 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+fonder.v 6 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+fonder.v 7 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+affection.n 8 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+commander.v 9 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+éplucher.v 10 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+essuyer.v 11 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+faucher.v 12 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+espace.n 13 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+arrêter.v 14 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+montée.n 15 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+commander.v 16 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+mince.a 17 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+interpréter.v 18 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+don.n 19 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+affection.n 20 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+interpréter.v 21 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+obscur.a 22 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+arrêter.v 23 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+grossier.a 24 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+arrêter.v 25 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+capacité.n 26 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+espace.n 27 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+taper.v 28 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+modeste.a 29 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+don.n 30 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+riche.a 31 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+capacité.n 32 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+affection.n 33 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+taper.v 34 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+capacité.n 35 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+don.n 36 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+grossier.a 37 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+aisé.a 38 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+entraîner.v 39 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+vaseux.a 40 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+commander.v 41 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+faucher.v 42 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+obscur.a 43 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+affection.n 44 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+incorrect.a 45 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+riche.a 46 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+entraîner.v 47 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+commander.v 48 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+riche.a 49 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+arrêter.v 50 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+éplucher.v 51 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+compris.a 52 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+vaseux.a 53 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+fonder.v 54 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+entraîner.v 55 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+montée.n 56 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+entraîner.v 57 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+essuyer.v 58 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+interpréter.v 59 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+don.n 60 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+obscur.a 61 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+vaseux.a 62 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+intérêt.n 63 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+débit.n 64 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+couverture.n 65 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+fonder.v 66 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+couverture.n 67 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+vaisseau.n 68 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+éplucher.v 69 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+capacité.n 70 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+hermétique.a 71 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+couverture.n 72 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+capacité.n 73 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+obscur.a 74 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+montée.n 75 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+taper.v 76 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+essuyer.v 77 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+direction.n 78 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+espace.n 79 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+interpréter.v 80 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+essuyer.v 81 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+taper.v 82 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+taper.v 83 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+don.n 84 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+grossier.a 85 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+essuyer.v 86 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+débit.n 87 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+fonder.v 88 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+essuyer.v 89 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+compris.a 90 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+vaisseau.n 91 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+vaseux.a 92 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+fonder.v 93 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+maintenir.v 94 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+obscur.a 95 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+mince.a 96 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+intérêt.n 97 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+essuyer.v 98 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+hermétique.a 99 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+éplucher.v 100 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+capacité.n 101 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+riche.a 102 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+capacité.n 103 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+vaisseau.n 104 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+aisé.a 105 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+compris.a 106 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+don.n 107 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+grossier.a 108 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+aisé.a 109 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+capacité.n 110 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+direction.n 111 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+vaseux.a 112 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+maintenir.v 113 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+modeste.a 114 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+débit.n 115 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+faucher.v 116 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+commander.v 117 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+riche.a 118 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+éplucher.v 119 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+espace.n 120 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+modeste.a 121 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+vaisseau.n 122 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+interpréter.v 123 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+vaseux.a 124 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+incorrect.a 125 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+hermétique.a 126 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+hermétique.a 127 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+interpréter.v 128 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+intérêt.n 129 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+don.n 130 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+débit.n 131 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+incorrect.a 132 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+entraîner.v 133 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+grossier.a 134 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+capacité.n 135 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+débit.n 136 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+espace.n 137 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+montée.n 138 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+aisé.a 139 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+entraîner.v 140 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+montée.n 141 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+espace.n 142 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+couverture.n 143 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+entraîner.v 144 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+affection.n 145 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+intérêt.n 146 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+mince.a 147 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+capacité.n 148 :: pouvoir ; force ; mesure ; valeur ; science ; disposition ; volume ; compétence ; talent ; portée
+couverture.n 149 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+couverture.n 150 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+direction.n 151 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+direction.n 152 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+montée.n 153 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+maintenir.v 154 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+intérêt.n 155 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+incorrect.a 156 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+interpréter.v 157 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+fonder.v 158 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+incorrect.a 159 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+faucher.v 160 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+entraîner.v 161 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+entraîner.v 162 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+modeste.a 163 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+commander.v 164 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+obscur.a 165 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+essuyer.v 166 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+éplucher.v 167 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+débit.n 168 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+débit.n 169 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+mince.a 170 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+commander.v 171 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+direction.n 172 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+aisé.a 173 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+éplucher.v 174 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+maintenir.v 175 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+direction.n 176 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+incorrect.a 177 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+aisé.a 178 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+grossier.a 179 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+espace.n 180 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+arrêter.v 181 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+taper.v 182 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+maintenir.v 183 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+débit.n 184 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+compris.a 185 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+compris.a 186 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+compris.a 187 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+débit.n 188 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+montée.n 189 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+vaisseau.n 190 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+entraîner.v 191 :: porter ; décider ; engager ; conduire ; tirer ; diriger ; provoquer ; produire ; apporter ; former
+mince.a 192 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+vaisseau.n 193 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+montée.n 194 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+modeste.a 195 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+don.n 196 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+modeste.a 197 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+aisé.a 198 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+direction.n 199 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+modeste.a 200 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+couverture.n 201 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+mince.a 202 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+hermétique.a 203 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+hermétique.a 204 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+débit.n 205 :: régime ; capacité ; volume ; café ; bar ; cadence ; crue ; diction ; buvette ; doit
+commander.v 206 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+maintenir.v 207 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+espace.n 208 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+riche.a 209 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+affection.n 210 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+compris.a 211 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+fonder.v 212 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+mince.a 213 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+faucher.v 214 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+essuyer.v 215 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+vaseux.a 216 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+incorrect.a 217 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+intérêt.n 218 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+arrêter.v 219 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+hermétique.a 220 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+taper.v 221 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+riche.a 222 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+direction.n 223 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+affection.n 224 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+mince.a 225 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+hermétique.a 226 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+grossier.a 227 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+grossier.a 228 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+espace.n 229 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+maintenir.v 230 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+grossier.a 231 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
+compris.a 232 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+affection.n 233 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+maintenir.v 234 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+éplucher.v 235 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+éplucher.v 236 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+taper.v 237 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+vaisseau.n 238 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+faucher.v 239 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+commander.v 240 :: appeler ; mener ; imposer ; conduire ; diriger ; réclamer ; obliger ; exiger ; inspirer ; attirer
+incorrect.a 241 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+mince.a 242 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+espace.n 243 :: place ; lieu ; zone ; course ; champ ; univers ; distance ; écart ; ciel ; surface
+don.n 244 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+don.n 245 :: art ; qualité ; faveur ; capacité ; distribution ; hommage ; talent ; grâce ; présent ; subvention
+modeste.a 246 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+obscur.a 247 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+faucher.v 248 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+taper.v 249 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+montée.n 250 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+maintenir.v 251 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+affection.n 252 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+aisé.a 253 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+affection.n 254 :: amour ; sentiment ; maladie ; goût ; passion ; émotion ; amitié ; attachement ; dysfonctionnement ; anomalie
+obscur.a 255 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+vaisseau.n 256 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+couverture.n 257 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+éplucher.v 258 :: passer ; critiquer ; détailler ; décortiquer ; disséquer ; dépecer ; peler ; plumer
+taper.v 259 :: battre ; frapper ; critiquer ; entamer ; heurter ; consommer ; cogner ; enivrer ; médire ; dactylographier
+interpréter.v 260 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+hermétique.a 261 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+direction.n 262 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+intérêt.n 263 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+fonder.v 264 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+couverture.n 265 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+essuyer.v 266 :: subir ; souffrir ; éprouver ; endurer ; dépoussiérer ; épousseter ; bouchonner ; torcher ; éponger
+interpréter.v 267 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+intérêt.n 268 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+modeste.a 269 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+vaisseau.n 270 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+intérêt.n 271 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+compris.a 272 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+arrêter.v 273 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+vaisseau.n 274 :: bâtiment ; bateau ; navire ; veine ; vase ; artère ; nef ; vaisselle ; capillaire
+aisé.a 275 :: libre ; facile ; souple ; riche ; fortuné ; dégagé
+faucher.v 276 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+arrêter.v 277 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+hermétique.a 278 :: secret ; obscur ; ésotérique ; impénétrable ; clos ; fermé ; étanche ; occulte
+direction.n 279 :: organisation ; autorité ; ligne ; administration ; gestion ; voie ; présidence ; marche ; orientation ; surveillance
+couverture.n 280 :: garantie ; prétexte ; provision ; couvert ; paravent ; bâche ; couverte ; déguisement ; reliure ; capote
+maintenir.v 281 :: tenir ; affirmer ; continuer ; confirmer ; soutenir ; arrêter ; fixer ; garder ; retenir ; conserver
+faucher.v 282 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+modeste.a 283 :: discret ; pauvre ; humble ; petit ; modéré ; pudique ; décent ; modique ; effacé ; médiocre
+obscur.a 284 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+montée.n 285 :: hausse ; augmentation ; côte ; ascension ; escalade ; crue ; rampe ; raidillon ; grimpée
+fonder.v 286 :: créer ; ouvrir ; constituer ; compter ; former ; élever ; justifier ; reposer ; instaurer ; bâtir
+compris.a 287 :: net ; assimilé ; enregistré ; interprété ; saisi ; situé ; vu
+vaseux.a 288 :: fatigué ; abruti ; fangeux ; boueux ; vasouillard
+interpréter.v 289 :: expliquer ; jouer ; comprendre ; lire ; commenter ; incarner ; exécuter ; deviner ; gloser
+faucher.v 290 :: prendre ; tuer ; détruire ; couper ; abattre ; coucher ; dérober ; piquer ; anéantir ; tondre
+arrêter.v 291 :: prendre ; tenir ; décider ; engager ; limiter ; conclure ; fixer ; maintenir ; cesser ; retenir
+mince.a 292 :: fin ; léger ; étroit ; menu ; négligeable ; petit ; insignifiant ; ténu ; frêle ; maigre
+riche.a 293 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+riche.a 294 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+obscur.a 295 :: secret ; vague ; trouble ; triste ; noir ; mystérieux ; incertain ; complexe ; inconnu ; compliqué
+riche.a 296 :: coûteux ; aisé ; abondant ; richard ; milliardaire ; fortuné ; millionnaire ; cossu ; huppé ; copieux
+intérêt.n 297 :: prix ; commission ; rapport ; revenu ; avantage ; importance ; attention ; désir ; curiosité ; loyer
+incorrect.a 298 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+incorrect.a 299 :: déloyal ; inexact ; barbare ; défectueux ; déplacé ; fautif ; impropre ; inconvenant ; irrégulier ; débraillé
+grossier.a 300 :: gros ; bas ; mal ; vague ; matériel ; massif ; animal ; paysan ; commun ; rude
